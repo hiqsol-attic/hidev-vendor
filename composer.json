@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/hidev-hiqdev",
     "type": "yii2-extension",
-    "description": "HiQDev vendor configuration for HiDev",
+    "description": "DEPRECATED in favour of hiqdev/hidev-hiqdev",
     "keywords": [
         "hiqdev",
         "hidev",

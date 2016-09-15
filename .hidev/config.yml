@@ -1,11 +1,14 @@
 package:
     type:           yii2-extension
     name:           hidev-hiqdev
-    title:          HiQDev vendor configuration for HiDev
-    headline:       HiDev HiQDev
+    title:          DEPRECATED in favour of hiqdev/hidev-hiqdev
+    headline:       DEPRECATED HiDev HiQDev
     keywords:       hiqdev, hidev, vendor, config
     namespace:      hidev\hiqdev
     description:    |
+        DEPRECATED in favour of [hiqdev/hidev-hiqdev](https://github.com/hiqdev/hidev-hiqdev).
+        ===========================================
+
         [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 
         This plugin provides [HiQDev](https://github.com/hiqdev) vendor configuration for HiDev.

@@ -1,7 +1,7 @@
-HiDev HiQDev
-============
+DEPRECATED HiDev HiQDev
+=======================
 
-**HiQDev vendor configuration for HiDev**
+**DEPRECATED in favour of hiqdev/hidev-hiqdev**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-hiqdev/v/stable)](https://packagist.org/packages/hiqdev/hidev-hiqdev)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-hiqdev/downloads)](https://packagist.org/packages/hiqdev/hidev-hiqdev)
@@ -9,6 +9,9 @@ HiDev HiQDev
 [![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/hiqdev/hidev-hiqdev.svg)](https://scrutinizer-ci.com/g/hiqdev/hidev-hiqdev/)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/hiqdev/hidev-hiqdev.svg)](https://scrutinizer-ci.com/g/hiqdev/hidev-hiqdev/)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:hidev-hiqdev/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:hidev-hiqdev/dev-master)
+
+DEPRECATED in favour of [hiqdev/hidev-hiqdev](https://github.com/hiqdev/hidev-hiqdev).
+===========================================
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 
